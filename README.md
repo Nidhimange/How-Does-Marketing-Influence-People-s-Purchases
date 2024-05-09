@@ -8,4 +8,4 @@
                        to apply mixed-method approaches to gather and analyze data, enhancing my skills in both quantitative and qualitative analysis. This 
                        experience also deepened my understanding of the digital marketing landscape and its influence on consumer purchasing patterns.
  - **Keywords:** Data Visualization, Consumer Behavior, Digital Marketing, Marketing Effectiveness, Purchase Decisions, Excel, Reporting
- - [**View Repo**] (C:\Users\lenovo\OneDrive\New folder\Projects\The Impact of Clan Culture on Corporate Culture)
+ - [**View Repo**] [MSBA 286-Report (2).docx](https://github.com/Nidhimange/Nidhi-Mange/files/15256523/MSBA.286-Report.2.docx)
